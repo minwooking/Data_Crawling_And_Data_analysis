@@ -8,6 +8,9 @@ data/*
 *.csv
 *.zip
 *.exe
+*.png
+홀푸드코리아/*.png
+홀푸드코리아/*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
