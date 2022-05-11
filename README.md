@@ -1,9 +1,7 @@
-# navercafecrawling
-네이버 블로그 및 카페를 크롤링 후 분석하여 인사이트 도출을 주로 하는 레포지트리입니다
-
+# It is a repository that mainly derives insights by analyzing it after crawling
 
 - 느영나영카페(제주도 로컬기반카페)
 - 제사모(제주도 로컬기반카페)
 - 미국주식에 미치다(미국주식관련카페)
-- 홀푸드코리아 관련 키워드검색(네이버블로그)
-- 추가예정... 
+- 홀푸드코리아
+- 노트북 갤러리
